@@ -9,6 +9,7 @@ Contiene archivos simples para que puedas practicar creación de ramas, commits,
 - `data/info.txt`: contiene datos de ejemplo.
 
 
+
 ## Contar líneas del repositorio
 ```bash
 python tools/line_counter.py
